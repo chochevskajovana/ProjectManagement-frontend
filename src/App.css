@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-color{
+  background-color: #31877E;
+}
+
+.color-in-theme{
+  color: #31877E;
+}
+
+.min_height{
+  min-height: 250px !important;
+}
+
+.min_width{
+  min-width: 200px !important;
+}
